@@ -1,0 +1,30 @@
+
+div{
+    padding-left: 200px;
+    padding-top: 150px;
+}
+body{
+    background-image:
+    url(https://img.freepik.com/fotos-premium/fundo-do-campo-de-grama-verde-para-esportes-do-futebol-e-do-futebol-fundo-de-textura-de-gramado-verde-fechar-se_64749-2438.jpg);
+    background-color: #b6b7b8;
+}
+h1{
+    background-color: crimson;
+    border-radius: 5px;
+    width: 600px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+table,th,td{
+    border: 1px solid #a3155c;
+    border-collapse:collapse;
+    padding: 15px;
+    height: 10px;
+    width: 100px;
+    background-color: #d5cbdf;
+}
+img{
+    height: 20px;
+}
+
